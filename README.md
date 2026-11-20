@@ -26,3 +26,6 @@ add_to_cart: 11.0%
     Este trabajo muestra mi capacidad para usar SQL en el análisis del comportamiento de usuarios, comunicar resultados con visualizaciones y convertir datos del proceso de compra en hallazgos útiles para la toma de decisiones.
     
 - **Stack:** SQL, Visualización de Datos.
+- - **🔗 Links o Imágenes y gráficos**
+    
+           https://docs.google.com/spreadsheets/d/1nGunmNKWLDC1daUwYLht8t8UxHo1m7MN/edit?usp=sharing&ouid=112434991501007046313&rtpof=true&sd=true
